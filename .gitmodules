@@ -1,0 +1,3 @@
+[submodule "builder-docker"]
+	path = builder-docker
+	url = git@github.com:flounderpinto/builder-docker.git
